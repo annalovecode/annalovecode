@@ -1,7 +1,7 @@
 <a href="https://www.annalovecode.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./I am Anna Zhao.svg" />
     <img alt="Anna Zhao | Freelancer · Front-End Developer 🎨" src="./header.svg" width="100%" />
   </picture>
 </a>
