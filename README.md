@@ -15,7 +15,7 @@
       <img alt="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-annazhao-7733ff?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://www.instagram.com/anna_zan4/">
-      <img alt="My Figma Community" src="https://img.shields.io/static/v1?color=%237733ff&label=instagram&message=anna_zhao&style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
+      <img alt="My Ins Community" src="https://img.shields.io/static/v1?color=%237733ff&label=instagram&message=anna_zhao&style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
     </a>
   </div>
 </header>
