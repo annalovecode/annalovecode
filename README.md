@@ -1,8 +1,8 @@
 <a href="https://www.annalovecode.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="vertopal.com_youtube videolink (1).svg" />
-    <img alt="Anna Zhao | Freelancer · Front-End Developer 🎨" src="vertopal.com_youtube videolink (1).svg" width="100%" />
+    <source media="(prefers-color-scheme: light)" srcset="./Mediamodifier-Design (2)-cropped.svg" />
+    <img alt="Anna Zhao | Freelancer · Front-End Developer 🎨" src="Mediamodifier-Design (2)-cropped.svg" width="100%" />
   </picture>
 </a>
 
