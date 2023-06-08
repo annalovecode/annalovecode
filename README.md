@@ -29,7 +29,7 @@
     <br />
     <div>
       <a href="https://github.com/annalovecode">
-        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=annalovecode&style=flat&color=cbd5e1&label=This+week+GitHub+profile+views" />
+        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=annalovecode&style=flat&color=334155&label=This+week+GitHub+profile+views" />
       </a>
       <br /><br />
     </div>
