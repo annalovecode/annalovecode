@@ -14,8 +14,8 @@
     <a href="https://www.linkedin.com/in/zhaoanna818/">
       <img alt="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-annazhao-7733ff?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
     </a>
-    <a href="https://figma.com/@enjidev">
-      <img alt="My Figma Community" src="https://img.shields.io/static/v1?color=%237733ff&label=Figma&message=@enjidev&style=flat&logo=figma&logoColor=ffffff&labelColor=334155">
+    <a href="https://www.instagram.com/anna_zan4/">
+      <img alt="My Figma Community" src="https://img.shields.io/static/v1?color=%237733ff&label=Figma&message=anna_zhao&style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
     </a>
   </div>
 </header>
