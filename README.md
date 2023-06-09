@@ -1,6 +1,6 @@
 <a href="https://www.annalovecode.github.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./CompressJpeg.Online_Cropped-SVG_53.png">
     <source media="(prefers-color-scheme: light)" srcset="./CompressJpeg.Online_Cropped-SVG_53.png" />
     <img alt="Anna Zhao | Freelancer · Front-End Developer 🎨" src="CompressJpeg.Online_Cropped-SVG_53.png" width="100%" />
   </picture>
