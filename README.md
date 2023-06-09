@@ -1,6 +1,6 @@
 <a href="https://www.annalovecode.github.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.coolgenerator.com/Data/Textdesign/202306/759807248e02d4c564a9fab82eae0f39.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.coolgenerator.com/Data/Textdesign/202306/9255df0470e8886016b9e1a4667d26e2.png">
     <source media="(prefers-color-scheme: light)" srcset="./CompressJpeg.Online_Cropped-SVG_53.png" />
     <img alt="Anna Zhao | Freelancer · Front-End Developer 🎨" src="CompressJpeg.Online_Cropped-SVG_53.png" width="100%" />
   </picture>
