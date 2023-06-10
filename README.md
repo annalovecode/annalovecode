@@ -5,7 +5,14 @@
     <img alt="Anna Zhao | Freelancer · Front-End Developer 🎨" src="CompressJpeg.Online_Cropped-SVG_53.png" width="100%" />
   </picture>
 </a>
-
+### Languages and Tools
+[<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/cplusplus.svg" />]()
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/python.svg" />]()
+[<img align="left" alt="Tensorflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/tensorflow.svg" />]()
+[<img align="left" alt="PyTorch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/pytorch.svg" />]()
+[<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/mysql.svg" />]()
+[<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/git.svg" />]()
+</br>
 <header>
   <div align="center">
     <a href="https://annalovecode.github.io">
