@@ -8,7 +8,7 @@
 </br>
 <header>
   <div align="center">
-    <a href="https://mygittest-annalovecode.vercel.app/](https://anna-zhao.vercel.app/">
+    <a href="https://anna-zhao.vercel.app/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=annazhao&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://www.linkedin.com/in/zhaoanna818/">
